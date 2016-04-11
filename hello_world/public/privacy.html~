@@ -1,0 +1,95 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Darinsni Privacy</title>
+  <link rel="stylesheet" href="stylesheets/bootstrap.css">
+  <link rel="stylesheet" href="stylesheets/styles.css">
+</head>
+<body>
+  <div class="wrapper">  
+    <div class="header-inner">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="logo">
+              <a href="home.html"><img src="images/logo-sm.png" alt="Darisni Logo" class="img-responsive"></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="content">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <h1 class="page-header">سياسة الخصوصية</h1>
+            <p>شركة درس تلتزم بضمان حماية خصوصيتك, ينبغي لنا أن نطلب منك تقديم بعض المعلومات التي يمكن تحديدها عند استخدام هذا التطبيق, ثم يمكنك أن تتأكد من أنها لن تستخدم إلا وفقا لبيان الخصوصية هذا</p>
+            <p>شركة درس قد تغير هذه السياسة من وقت لآخر عن طريق تحديث هذه الصفحة, وفي حال تبني أية تغييرات لهذه السياسة, ستقوم الشركة بطلب موافقتكم على هذه التعديلات </p>
+            <h3>المعلومات التي نحتاجها</h3>
+            <ul>
+              <li>الإسم</li>
+              <li>البريد الإلكتروني </li>
+              <li>الجنس</li>
+              <li>الفصل الدراسي</li> 
+              <li>رقم الهاتف</li>
+            </ul>
+            <p>عند التسجيل هذه المعلومات نطلبها منك مرةً واحدة فقط</p>
+            <br>
+            <h3>لماذا نحتاج لهذه المعلومات ؟</h3>
+            <p>نحتاج لهذه المعلومات لمعرفة احتياجاتك ولنقدم لك خدمةً أفضل, ولهذه الاسباب:</p>
+            <ul>
+              <li>حفظ السجلات الداخلية</li>
+              <li>لإمكان المستخدمين التعرف عليك والإتصال بك</li>
+              <li>لا نعطي المعلومات لأية جهة اخرى</li>
+            </ul>
+            <br>
+            <h3>الأمان</h3>
+            <p>نحن ملتزمون بأن نضمن أن معلوماتك تبق خاصة بك. من أجل منع الوصول غير المصرح به لقد قمنا بإجراءات مادية إلكترونية وإدارية مناسبة لحماية وتأمين المعلومات التي نجمعها عبر الإنترنت</p>
+          </div>
+        </div>
+        <br>
+        <div class="row" style="direction: ltr;">
+          <div class="col-sm-12">
+            <h1 class="page-header">Privacy & Policy</h1>
+            <p>Dars  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this app, then you can be assured that it will only be used in accordance with this privacy statement.</p>
+            <p>Dars may change this policy from time to time by updating this page. In case of any amendments to this privacy policy, your approval will be demanded by Dars. </p>
+            <h3>We collect the following information:</h3>
+            <ul>
+              <li>Name</li>
+              <li>Email</li>
+              <li>Educational level</li>
+              <li>Phone number</li>
+            </ul>
+            <p>While registering, we collect this information (One time only).</p>
+            <br>
+            <h3>What we do with the information we gather </h3>
+            <p>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p>
+            <ul>
+              <li>Internal record keeping </li>
+              <li>Use your details so that users can directly see & contact you. </li>
+              <li>We will never sell your information. </li>
+            </ul>
+            <br>
+            <h3>Security </h3>
+            <p>We are committed to ensure that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="text-center links">
+              <a href="privacy.html">سياسة الخصوصية</a>
+            </div>
+            <p class="copy text-center">جميع الحقوق محفوظة © درسنى</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>  
+</body>
+</html>
